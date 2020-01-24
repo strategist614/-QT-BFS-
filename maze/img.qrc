@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>endPoint.png</file>
+        <file>endPoint1.gif</file>
+        <file>endPoint2.gif</file>
+        <file>rabbit_back.png</file>
+        <file>rabbit_back_dynamic.gif</file>
+        <file>rabbit_front.png</file>
+        <file>rabbit_front_dynamic.gif</file>
+        <file>rabbit_left_dynamic.gif</file>
+        <file>rabbit_right_dynamic.gif</file>
+        <file>road1.png</file>
+        <file>road2.png</file>
+        <file>wall2.png</file>
+        <file>wall1.png</file>
+        <file>wall3.png</file>
+        <file>wall4.png</file>
+        <file>road3.png</file>
+        <file>road4.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>main.ico</file>
+    </qresource>
+</RCC>
